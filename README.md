@@ -131,10 +131,4 @@ telco-churn-supervised-learning/
 See `requirements.txt` for the full list of Python package dependencies
 (pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn,
 joblib, jupyter).
-
-## Video Walkthrough
-
-Video link: _add your recorded video URL here before submission_
-
 ---
-*Practical Exam - Supervised Learning (Set B) - Red & White Skill Education*
