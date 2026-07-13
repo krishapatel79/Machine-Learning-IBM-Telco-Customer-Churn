@@ -77,21 +77,6 @@ priority, since missing a real churner is costlier than a false alarm). The
 full analysis, charts, and final recommendation are documented in the
 notebook and in `summary_report.md`.
 
-## Folder Structure
-
-```
-telco-churn-supervised-learning/
-|-- CustomerChurn_SupervisedLearning.ipynb   Fully executed notebook
-|-- churn_model.pkl                          Saved sklearn Pipeline (best model)
-|-- summary_report.md                        ~400-500 word summary report
-|-- requirements.txt                         Python dependencies
-|-- README.md                                This file
-|-- data/
-|   `-- WA_Fn-UseC_-Telco-Customer-Churn.csv Raw dataset
-`-- charts/
-    `-- *.png                                All saved EDA and evaluation charts
-```
-
 ## Installation
 
 1. Clone this repository:
@@ -134,9 +119,4 @@ See `requirements.txt` for the full list of Python package dependencies
 (pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn,
 joblib, jupyter).
 
-## Video Walkthrough
-
-Video link: _add your recorded video URL here before submission_
-
 ---
-*Practical Exam - Supervised Learning (Set B) - Red & White Skill Education*
