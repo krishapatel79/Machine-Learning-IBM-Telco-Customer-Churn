@@ -15,6 +15,8 @@ tuning four different classifiers (KNN, Naive Bayes, SVM, Decision Tree),
 model evaluation and comparison, error analysis, and packaging the final
 model into a reusable, deployable pipeline.
 
+- **Video link:** https://drive.google.com/file/d/1poSs_Fcw6x3NsUBPa4mVESb9I8efu3JZ/view?usp=sharing 
+
 ## Dataset Information
 
 - **Dataset:** IBM Telco Customer Churn Dataset
@@ -131,4 +133,10 @@ telco-churn-supervised-learning/
 See `requirements.txt` for the full list of Python package dependencies
 (pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn,
 joblib, jupyter).
+
+## Video Walkthrough
+
+Video link: _add your recorded video URL here before submission_
+
 ---
+*Practical Exam - Supervised Learning (Set B) - Red & White Skill Education*
